@@ -4,7 +4,7 @@
 `stats`, `help`, `invite`
 
 # 🎫 Tickets
-`sendpanel`, `add`, `remove`
+`sendpanel`, `add`, `remove`, `config`
 
 # ⚙️ Utilities
 `reportbug`, `submitsuggestion`
